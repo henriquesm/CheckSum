@@ -1,0 +1,9 @@
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\bin\Debug\CheckSum.exe.config
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\bin\Debug\CheckSum.exe
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\bin\Debug\CheckSum.pdb
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.csprojResolveAssemblyReference.cache
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.Form1.resources
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.Properties.Resources.resources
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.csproj.GenerateResource.Cache
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.exe
+c:\users\808204\documents\visual studio 2012\Projects\CheckSum\CheckSum\obj\Debug\CheckSum.pdb

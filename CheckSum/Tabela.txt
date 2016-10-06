@@ -1,0 +1,40 @@
+﻿USE [teste]
+GO
+
+/****** Object:  Table [dbo].[Arquivos]    Script Date: 10/06/2016 16:58:54 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Arquivos]') AND type in (N'U'))
+DROP TABLE [dbo].[Arquivos]
+GO
+
+USE [teste]
+GO
+
+/****** Object:  Table [dbo].[Arquivos]    Script Date: 10/06/2016 16:58:54 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Arquivos](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Nome] [varchar](500) NULL,
+	[Caminho] [varchar](8000) NULL,
+	[CheckSum] [varchar](500) NULL,
+	[Extensao] [varchar](10) NULL,
+	[DataCriacao] [datetime] NULL,
+	[DataPesquisa] [datetime] NULL,
+	[tamanho] [bigint] NULL,
+	[Dono] [varchar](500) NULL,
+	[Grupo] [varchar](500) NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
